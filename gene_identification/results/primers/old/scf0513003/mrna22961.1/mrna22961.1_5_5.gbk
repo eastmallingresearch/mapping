@@ -1,0 +1,18 @@
+LOCUS       mrna22961.1              295 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     65..86
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.4142136340775"
+     right_primer    complement(268..288)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.1890223337281"
+ORIGIN      
+        1 gcctgtgaaa tccgacgacg tagaagagat taacaaatgg tctgagtata tccacagtcc
+       61 atttctgatg ggagcaaaca ctatgcagaa tataaatcaa tcctcccagt ataacagtac
+      121 tgaaatcaaa ccagaaacac agtacttcat gaccagcaat ggagcaagta gtgctagtgc
+      181 agccaccacg agttggcctc atcatcatca gcaagccaat aacttacaac cttcttcaga
+      241 aatgtacaca aaggatcttc agagactcgc agtagctttt ggacagaccc tttaa
+//

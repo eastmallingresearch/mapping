@@ -1,0 +1,17 @@
+LOCUS       mrna02040.1              647 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      complement(1..647)
+ORIGIN      
+        1 atggtgacat ggcgtcctcg atttgtgaca cgtgacaatg gacaataccc tgctcttttc
+       61 gttttcttgc gaaatgaaaa catttcaagg gtaacgccca acatttcaag ggttgttctt
+      121 gcttcaaaag ttgttgaaaa agttggatcc ctcttatttt aaattgggtg aagctcaact
+      181 ttgatgggta tgtcctctct acctctggtg ttgctagctt tattattaga gactcttttg
+      241 ggattccctt agttgctggt acacgtcgac tccatgtttc taatgtttta attgttgagt
+      301 gttgtgccct taaagatggt ctcgctgcta tcaaaaggtt caactttaaa tctattgtag
+      361 ttgaaagaga ttctctttta acgatcaatt gcgttaagaa tgtttgtaaa atcccttggc
+      421 gtctcaaatc ccatgttaga gatgtcattc atgttgctag tgagtttggt aatattagtt
+      481 ttggtcatgc cttcagagaa gctaatttct tggctgatgc tcttgcaaat ctcaggcatt
+      541 gtttgcattc tccgaagatt tggatgggtg cgcttcctcc tcaagttgcg caagtattac
+      601 atttagatac tgttaatatt ggctgcccta aagacgcctc gttataa
+//

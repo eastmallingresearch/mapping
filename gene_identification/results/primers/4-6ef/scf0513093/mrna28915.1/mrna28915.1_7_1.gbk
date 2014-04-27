@@ -1,0 +1,18 @@
+LOCUS       mrna28915.1              249 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     19..39
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.9675722962514"
+     right_primer    complement(211..232)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.7324837594668"
+ORIGIN      
+        1 ggccctggag agcaactttt tttctggatc tattccgccg gagatgggga gattgattaa
+       61 catggaagtc ctgtgagtat gcctattttc ttgttttcgt ttctttcatt ggcatataaa
+      121 ttttttactt aactgtgtcc tctggtattg tttttttcca tggataacta tttgcagcta
+      181 ccttcgttct aacaatctca ctggacagtt gcctgtggct ctcattaata tgaccaaatt
+      241 aaaaacact
+//

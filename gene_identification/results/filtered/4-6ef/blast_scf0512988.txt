@@ -1,0 +1,13 @@
+gene01738	1	1	,	16	1	,salicylic,transcription,
+gene23482	168	168	,	2597	168	stress,,kinase,defense,bacterium,
+gene23488	4	4	,	0	4	
+gene23487	44	44	,	364	44	stress,,transcription,
+gene01741	16	16	,	11	16	,
+gene01737	0	0		0	0	
+gene01740	9	9	,	1	9	,
+gene23484	11	11	,	47	11	,kinase,
+gene01742	93	93	,	1042	93	stress,,kinase,transcription,
+gene33938	66	66	,	1041	66	stress,,kinase,cell wall,defense,bacterium,
+gene01736	0	0		0	0	
+gene23485	0	0		0	0	
+gene23489	5	5	,	5	5	,transporter,

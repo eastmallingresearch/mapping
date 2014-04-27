@@ -1,0 +1,20 @@
+LOCUS       mrna05533.1              419 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     39..60
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.5835506737794"
+     right_primer    complement(232..253)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.2809985311856"
+ORIGIN      
+        1 ccgaattgcc taggcttagg gaggtggagc ttgaggataa caattttagt ggcgaaatcc
+       61 ctgattttaa gagcacgatg ttagataccg tggatttctc caacaatgat ttatcgggag
+      121 agatcccaaa aagtttgagt acgatggatg ccaaatattt tgcaggtaat tacctaatat
+      181 ttcatgttta ggtttttttt tttttttttt tttttttttt ttttttttcc tggttggata
+      241 tatttggtgc atgcttgaga tttcttacta tacacatata gagataactt tgatgttaaa
+      301 atgcatcaaa tatctccaac caaaatatat cgtagttgtt tacctctaaa atgcaaatta
+      361 aacataactc ttctgagtga ttttaatcga aatgcaggaa atgcaaaggt atgtggtgg
+//

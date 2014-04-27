@@ -1,0 +1,21 @@
+LOCUS       mrna08926.1              464 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     3..24
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="57.3796991320981"
+     right_primer    complement(305..327)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.3804472634675"
+ORIGIN      
+        1 acgtcttcag tcaagtagcc gaccgacgtc tctcgtatat gacattcatc gttctcgttt
+       61 cgtctgcaag aagtggctag gttttgatga tgagcgtaaa cgacgagcga ctttgcttgc
+      121 tgtgatgaag gtcaactggt acgttattcc gtttaccagt gactcaacca agatttgtca
+      181 agcaaaggtg tttgattttc cttccgacag tcctttctgg atccataaca ttctactgaa
+      241 tcaacacaaa aagaaacgac acgccaacta caaaacccca gatttttgtt gctcggattc
+      301 tgcaggttgg ttcctttatc tgaaaccagg atcaaatatc acaagctgga ggtcattctt
+      361 cttttacaat cttgttcaca acgagattgt ggaacttcct tcgttacaat ggaatcatca
+      421 agtccaactt ctcctgattg tgttatattt atcctgtgga acac
+//

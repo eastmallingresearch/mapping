@@ -1,0 +1,20 @@
+LOCUS       mrna01904.1              389 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     135..156
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.9036565578444"
+     right_primer    complement(340..361)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.2383347565788"
+ORIGIN      
+        1 tagtggaaag gaacctttgg gtggtcatgc cgtttatggc ggagggttct tgtctgcatc
+       61 tcatgaaaat tgcgtatccg gatgggtttg aggaggctgc aattggttcc attttaaagg
+      121 aaacacttaa ggctttggtt taccttcaca aacagggtca tattcatcga gatgttaagg
+      181 tctgtaattt acttctaaat aaacttccgt accttttttg ttttcgaatt gattctaatg
+      241 taattgtttt tttttttgat gcaggctgga aacatattac tcgatactaa tgggatggtg
+      301 aagcttgcgg actttggtgt ttcagcatgc atgtttgatg caggtgatag acaaaggtca
+      361 agaaatactt ttgtaggaac accttgctg
+//

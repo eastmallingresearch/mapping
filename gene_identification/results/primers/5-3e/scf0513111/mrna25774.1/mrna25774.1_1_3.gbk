@@ -1,0 +1,19 @@
+LOCUS       mrna25774.1              302 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     28..49
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.6514723935517"
+     right_primer    complement(220..242)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.7047437601958"
+ORIGIN      
+        1 ataccgacca atctaatgaa agactgtaaa gctctgcaga atatttccct gcacggaaat
+       61 cctatatcaa tggatcagtt tcagcaagta tgccccatgt tccttttgtg gtgttctact
+      121 tctgctcccc agtcttcttt ttggcaataa ttatttgtcg ttatgaactt ttacccctga
+      181 tacaaataca gatggaagga ttccaagaat ttgaagcaag gaggaagaag aagtttgaca
+      241 aacagattga ctcaaatgta atgatcagtt ctaaaggcct tgatgaaggt gttgatcatt
+      301 ga
+//

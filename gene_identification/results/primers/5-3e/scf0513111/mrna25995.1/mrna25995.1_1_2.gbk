@@ -1,0 +1,21 @@
+LOCUS       mrna25995.1              444 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     124..145
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="57.0241178353231"
+     right_primer    complement(381..402)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.3210770708028"
+ORIGIN      
+        1 taattttccc agttttttat aatgtggaac cccatgatgt ccgacatcaa attgggagtt
+       61 ttgaagaact cttcaccgga catggtaaac aaaggcatgg aaagaaggtg ctgaatcagt
+      121 ggaaagctgc tttaacaaca gtggccaatc tcactggctt tgaatcaaaa atatataggt
+      181 aagctaggac ggtaactatg ttaactggtg ttatacttat tggaaatata tttagctcat
+      241 gattgtttga cttgtccttt gtttaggtct gacagacacc ttgtcgaaga aattgtgcaa
+      301 tatgtcttca gtcaagtacg aaatctggaa attgagtctc caggttcaaa atttaaagca
+      361 acaaaaaagg ccctgggtaa ggtagtggag gcgcttatag aagatgagat cgctgccagc
+      421 agtgttatcg gaggcatcat cagt
+//

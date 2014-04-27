@@ -1,0 +1,7 @@
+gene24626	1	1	,	2	1	,
+gene20681	3	3	,	5	3	,transcription,
+gene20682	10	10	,	24	10	,
+gene20683	2	2	,	0	2	
+gene34095	24	24	,	251	24	stress,,cell wall,bacterium,
+gene20675	0	0		0	0	
+gene34096	1	1	,	1	1	,

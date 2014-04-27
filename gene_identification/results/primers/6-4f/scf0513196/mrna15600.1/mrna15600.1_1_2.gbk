@@ -1,0 +1,20 @@
+LOCUS       mrna15600.1              405 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     130..151
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.9392465311231"
+     right_primer    complement(329..350)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.3914296142182"
+ORIGIN      
+        1 gcaaaggtgt agagttgaag tatttgaaga caccttatct tctctggttt atagatttct
+       61 caagtaatag atttgaaggc gccattcctg gtgctattgg gaatctcaca gggcttcatt
+      121 tgcttaatct ttccaacaac actctcaatg gtcacatccc ctcatctttg gggaaattgt
+      181 ctgctcttga atccttggat ctctctcaaa atcaactctc aggagagatc cccggcaatt
+      241 tagccgaact cactttcctt gcatacttca atgtatccca aaatcacctt tcaggcccta
+      301 tcccacatgg acaacaattt ggtacattcc aagaggaact gtacgaagga aactcaggtt
+      361 tgtgtggaga gcctttgtta aagaaatgtg aaggttctga tagct
+//

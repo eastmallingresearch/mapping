@@ -1,0 +1,7 @@
+gene24362	2	1	,arabinogalactan,	2	1	,
+gene24358	57	57	,	427	57	stress,,kinase,defense,cell wall,transcription,bacterium,
+gene33982	44	44	,	1	44	,
+gene24360	0	0		0	0	
+gene33981	243	243	,	6	243	,
+gene24356	17	16	,cellulose,	40	16	,cell wall,
+gene24361	249	249	,	3	249	,

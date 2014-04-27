@@ -1,0 +1,51 @@
+LOCUS       mrna05533.1             2590 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      1..2590
+     ssr             709..745
+ORIGIN      
+        1 atggctatgg ctaggcttat gcgcgcacca accctatcgt tcttgctcgc tctcgttgta
+       61 gctgcactct cttttgtgaa catgttgcct gttggattgt cggacgccag ctccgacgcc
+      121 ctgttacagt tcaaggattc tttgggggag aaagccgaag ttctcaattg gggtataact
+      181 ccgaaaccat gcgatggtga cacatcctta tggtttggtg tgatttgctt tgatggaaag
+      241 gttaggggcg tgatactcga aaatatgcag tttcagggac cgctaaaagt ggaacctctg
+      301 gcgtcgttgc cgtttttgaa gactatacga ttcaggaaca attcattcga aggtccattg
+      361 cctaatctca gtatacttaa gacaataagg tcagtgtatt tgacaggtaa tagattctcg
+      421 ggggagattc ctgatgacgc atttgagggt ttgaatttct tgagaagact gcatttggga
+      481 agaaatgatt tatcaggcca aatcccttcg tctcttgccg aattgcctag gcttagggag
+      541 gtggagcttg aggataacaa ttttagtggc gaaatccctg attttaagag cacgatgtta
+      601 gataccgtgg atttctccaa caatgattta tcgggagaga tcccaaaaag tttgagtacg
+      661 atggatgcca aatattttgc aggtaattac ctaatatttc atgtttaggt tttttttttt
+      721 tttttttttt tttttttttt tttttcctgg ttggatatat ttggtgcatg cttgagattt
+      781 cttactatac acatatagag ataactttga tgttaaaatg catcaaatat ctccaaccaa
+      841 aatatatcgt agttgtttac ctctaaaatg caaattaaac ataactcttc tgagtgattt
+      901 taatcgaaat gcaggaaatg caaaggtatg tggtgggact acgggagtag catgcccctc
+      961 tcctgctcct gctccttctc taccgccatc tccatctcca gctccttctc cttctcctgt
+     1021 cccgtctagc aagcctgcat cacttggtct gaaaatagct ttgggtgtag tgagtgttct
+     1081 gctcatatta cttatcatcg ccgtacttgt gatctttgtc aagaagagga agcaacgatc
+     1141 agacttacac caggcggagt tgttagataa ttcctccaag tacacggcag gaactgggag
+     1201 ccaagtcgat accaaatcag tagaagctaa taatgtaaac catccagcaa ggaggggtgg
+     1261 tgagcaagga aaattgtcat ttgtgaggga tgacagggat aggtttgatt tgcatgatct
+     1321 gcttagagcc tcagctgaaa tcttgggtag tgggaacttt ggggcttcct acaaggcttt
+     1381 gatactgact gatgctgtag tggttaagag gtataagcaa atgaacaatg tgggaagaga
+     1441 ggagttccat gatcacatga gaaggcttgg gaaattgaca caccaaaact tgttaccact
+     1501 tgtggcctat tattatagaa gggaagagaa gctcttagtt tctgactttg tggagaacag
+     1561 tagcttggct tctcatcttc atggtacgtt tcttgttcca actaattata ctatatatgt
+     1621 gctgtaaatc tgtgatatag ataagcttaa cgtacaattt ggttccaatt ttctcattat
+     1681 attgttaatt tgttgggttt agggcttaca aattaacaaa tatagaacac gtatcatcaa
+     1741 atacgaatct acgtgcaatt gttacggggg ccaaattacc tcatgcttcg ttaaactctg
+     1801 ctctgtctct tgaatttctc ctattaaatc caagatatta tccttggttg tactgagttt
+     1861 ctcatagaag taatacataa gaaagttgat gaaatgcttc aaatggacat ttcaccccgg
+     1921 tattgaactt ttgttttctt tttcaggcaa tcacaacctg cagcttggac tagactggcc
+     1981 aactcggttg agaataatca aaggcatagg aaggggtttg acatacctct acaacacact
+     2041 cccaagcttg gttgtacctc atggtcatct gaaatcctcc aatgtgcttc tggatgaaaa
+     2101 catggagccc ctactgaacg actatgctct actccccgtg atcaacatgg atcaggccca
+     2161 acacctcatg atggcctaca agtcacccga atacacgcag caccgccgaa taacaaagaa
+     2221 gacggacgtg tggtgcttcg ggataatcat cttggaggtg ttgacaggca agttcccaga
+     2281 gaactacata atgccaagtt atgacagtaa agaaaatttg gggagctggg tgaatggaat
+     2341 gatcaaggag aagaagacta gtgaggtgtt tgatgtagaa atggggaatg tcggtaatag
+     2401 caaaggtgaa cttctaaagc tgttgaagat tggagtgagt tgttgtgagg aggatgtgga
+     2461 gagaaggcta gacttgcatg aagttgttgt gaagatagag gagttgaatg aaggagaaag
+     2521 tgatggggac tatcgctcaa gtgtttcaag tgaaggagga gacgatgatc atacttctct
+     2581 agctgtgtga
+//

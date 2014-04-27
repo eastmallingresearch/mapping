@@ -1,0 +1,19 @@
+LOCUS       mrna26522.1              356 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     42..63
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.5226420675204"
+     right_primer    complement(292..313)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.5730352109071"
+ORIGIN      
+        1 gaaatgcttt gcatgctttg agaagtaggc tcattgatgc caccaatgtt cttcagagtt
+       61 gggagttggg acccaactct ggtcaatccc tgcacctagt tccatgttac ctgtgatgcc
+      121 aataaccatg tgatccgttt gtaagtttct tctctctttg attttgaaat agggtgttct
+      181 gttgtttgag tttgaattcg ttagttaatt cctttttctt ttcttttttt tgaagttgtt
+      241 gtatattttt gtggattgat tgactttctt gtcttcaatt tcagggattt gggcaactct
+      301 aacatttctg ggtctttggg gccagagctt gggcagctga agcacctgca atactt
+//

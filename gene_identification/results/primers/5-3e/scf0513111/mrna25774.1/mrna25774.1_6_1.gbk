@@ -1,0 +1,21 @@
+LOCUS       mrna25774.1              451 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     42..63
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.3630290969425"
+     right_primer    complement(367..389)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.4833330138089"
+ORIGIN      
+        1 ggtacgtgct tttctctccg ttaggcacct gattttccac tgaattatcg ctgaacaagg
+       61 agcttcactg caataacttt taacagtaga ggttttctac atgcagctga tattcctatg
+      121 gacattggca agttaataaa tctgcagaga ctggtaagaa ttcatatgtt tgactttcgt
+      181 ccatgtacta tagctctgtt tcctatattc atgattcaca aacaattttt tcataagcga
+      241 tatggtacga cataaattgg agacagtgat tggttattgt ttatatgaac tatattcttt
+      301 ttgaatatta actgttctaa tttgagttgc tctatctttc aggtcttagc tgagaacctt
+      361 attgatcgac tacctatgca tgtgtcaaaa ttagagtccc tgaaagttat gacgcttgat
+      421 tcaaatcgaa ttacttcctt gcctgatgaa t
+//

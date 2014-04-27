@@ -1,0 +1,21 @@
+LOCUS       mrna01294.1              452 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     68..89
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.4665523567717"
+     right_primer    complement(373..395)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.3321039539393"
+ORIGIN      
+        1 ctaccagaaa atgttgcggt aagctagtta tactatatat atatttacct ttgttgtgac
+       61 attttatcca aaggctgact agtttttcgt ttatagggta tctgggagcc gtatcagcga
+      121 agtcgttgcg tagttgcagg gcttaaggag tacattgaga cctttaatca tcaggtataa
+      181 tatatctgtg taagatggac tcaggtattc aaaacctatc ctaattagtc catctttact
+      241 acatatagta acttagtgat tggctccatc acttgtagag actagacaaa ctgaggaacc
+      301 ttcaagctgt tttgctccaa gagagacaga aaaacgcaac tcaggtacta aaatttgtta
+      361 cgatttaaag cagctatttt gtgagcttgc agtttgcaca tctctgatat ttttgttgtt
+      421 tacagggaag attaatttca gatttgctga aa
+//

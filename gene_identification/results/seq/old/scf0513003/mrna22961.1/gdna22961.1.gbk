@@ -1,0 +1,35 @@
+LOCUS       mrna22961.1             1549 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      complement(1..1549)
+     ssr             402..410
+     ssr             869..881
+     ssr             1452..1464
+ORIGIN      
+        1 atggggaggc attcttgttg ctacaagcag aagcttagga aaggcctctg gtctcctgaa
+       61 gaagatgaga agcttctcaa ttacatcact aagcatggcc atggctgttg gagctcagtc
+      121 cctaagcttg caggtaacta agaactagta ctactccaac ccctaaagtt cttcactttc
+      181 aacatgactg aacaaaaaag ttactgtctt tctctgatta tgtgtcatat gattatggtg
+      241 tatgactgtg tacatgattt tcaggcctac aaagatgtgg gaagagctgc aggttgaggt
+      301 ggataaacta cctgaggcct gatttgaaga gaggtccatt ctcacagcaa gaagagaatt
+      361 tgataataga gcttcatgca gttctgggaa acaggtattt aatttttttt ctttttctga
+      421 aatttattta agaacttttg ttcatcttct gggttttaaa ggaaatgaga ttttgtgcta
+      481 caacaggtgg tctcagattg cagctcaatt accaggaagg acagacaatg agatcaagaa
+      541 tctatggaat tcctgcatta agaagaagct gaggcaaaga ggcattgacc ccaacactca
+      601 caaaccaatc tcatcagaaa ctgaacaaac tgatcacagc aaagagataa gccagctctc
+      661 ctctccaaca aactacaaag gcaatgagca gcaaaaagcc tctgtgggat ccaatgaact
+      721 caatctggtt gaggctgtag cgaattccaa gcaagtcgaa caccacaggt acccagttga
+      781 ggtctcttct tccagtaaag ttatcagcaa cagcaacaac acccaagact tcttcataga
+      841 cagagctgct tgtacctcgc atgaaggctc caccaccacc aattgcaggc cttctgattt
+      901 tgtggggtat ttctctttcc atcatcacca ccagttcggg tcatcatctt cagagaccat
+      961 ggggctcaat gcagtaaatc caaaccaaac tttcagcttc ctcaatcaaa actccaggtc
+     1021 caactctgat cctcaaatgg tgtccgagtt cagcaccagc atgactacac caccgtcact
+     1081 tctgccctcc atgtcaagta gctcactttt cggcacacgt gtgaagcctt ccattagtct
+     1141 tccctctgat aattcttcca ctgtctcatg ggaccagtcc agtgccggct acagtaacaa
+     1201 tggcgggttc gacaacactg cagccgcttt ctcttggggg ctactgccag aagtgcctgt
+     1261 gaaatccgac gacgtagaag agattaacaa atggtctgag tatatccaca gtccatttct
+     1321 gatgggagca aacactatgc agaatataaa tcaatcctcc cagtataaca gtactgaaat
+     1381 caaaccagaa acacagtact tcatgaccag caatggagca agtagtgcta gtgcagccac
+     1441 cacgagttgg cctcatcatc atcagcaagc caataactta caaccttctt cagaaatgta
+     1501 cacaaaggat cttcagagac tcgcagtagc ttttggacag accctttaa
+//

@@ -1,0 +1,17 @@
+LOCUS       mrna18097.1              218 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     18..39
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.2218445928156"
+     right_primer    complement(198..218)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.0178171130473"
+ORIGIN      
+        1 aggctttccc agaatggttg ggaaacctta caactctgga gtacctcgac atcttgggtt
+       61 gcggtaatat gttgtgtcta ccttctgtta gagccatgca acgcctcacc aaattaaaaa
+      121 gtatactcat ctcaggatgt ccccttctaa gagagagaga tataccgagg agagcggccc
+      181 cgagtggcct aagatcagcc atattccaca aatcacag
+//

@@ -1,0 +1,19 @@
+LOCUS       mrna12913.1              347 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     62..84
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.4647260341008"
+     right_primer    complement(325..346)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.8411109038079"
+ORIGIN      
+        1 gcatcgctct gaatccagta ttattgggga aatcattgaa catatatcaa aggaacacgt
+       61 caacaataca gatttggatg tggccgagta ccaagtagga atacaacatc gtgtgcaagc
+      121 gatacaaaag cttttaggtg tcgatggaag agatgttcat atggtaggga tatgggggct
+      181 ggtggaattg gtaagacaac aattgccaaa gctgtctata actcaattgc tcaaaaattt
+      241 gatgcagaac tcacagaacg tgcagtgcga tacgctcaag gccttccatt agttttgact
+      301 gttttaggtt cttctctacg cggtggaaat gtagagcttt gggaagc
+//

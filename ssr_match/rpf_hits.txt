@@ -1,0 +1,69 @@
+Collecting contigs 
+HITS 24 
+scf0513192	ttctacgcattaagatgcacttg	ttctacgcactaagatgcacttg	23	2839592	2839614	1	95.6521739130435
+scf0513158	ttctacgcattaagatgcacttg	ttctacgcactaagatgcacttg	23	4153060	4153082	1	95.6521739130435
+ttctacgcattaagatgca	ttctacgtattaagatgca	19	2098378	2098396	-1	94.7368421052632
+ttctacgcattaagatgca	ttctacacattaagatgca	19	3235048	3235066	1	94.7368421052632
+scf0513135	ttctacgcattaagatgcacttg	ttctacgcattaaggtgcacttg	23	940418	940440	-1	95.6521739130435
+scf0513090	ttctacgcattaagatgca	ttctacgcattaagatgca	19	591171	591189	-1	100
+scf0512965	ttctacgcattaagatgcacttg	ttctacgcattaaggtgcacttg	23	109686	109708	1	95.6521739130435
+scf0513194	cattaagatgcacttg	cattaagatgcacttg	16	2816093	2816108	1	100
+ttctacgcattaagatgcacttg	ttctacgcattaaggtgtacttg	23	1054725	1054747	1	91.304347826087
+scf0513160	cattaagatgcacttg	cattaagatgcacttg	16	4584622	4584637	1	100
+ttctacgcattaagatgcacttg	ttctacgcaccaagatgcacttg	23	3249038	3249060	1	91.304347826087
+ttctacgcattaagatgcacttg	ttctacgcaccaagatgcacttg	23	4608387	4608409	1	91.304347826087
+scf0513098	tacgcattaagatgca	tacgcattaagatgca	16	917187	917202	1	100
+scf0513190	acgcattaagatgcacttg	acgcatcaagatgcacttg	19	2092293	2092311	1	94.7368421052632
+scf0513177	ttctacgcattaagatgcacttg	ttctacgcattaaggtacacttg	23	3410201	3410223	-1	91.304347826087
+scf0513156	cattaagatgcactt	cattaagatgcactt	15	565683	565697	1	100
+acgcattaagatgc	acgcattaagatgc	14	543595	543608	1	100
+scf0513151	ttctacgcattaagatgcacttg	ttctacgcagcaagatgcacttg	23	1074626	1074648	-1	91.304347826087
+scf0513150	ttctacgcattaagatgcacttg	ttctacgcattaaggtacacttg	23	589243	589265	1	91.304347826087
+scf0513144	acgcattaagatgcacttg	acgcattaagatacacttg	19	267920	267938	1	94.7368421052632
+scf0513143	ttctacgcattaagatgca	ttctacgcattaaggtgca	19	1762652	1762670	-1	94.7368421052632
+scf0513031	ttctacgcattaagatgcacttg	ttctacgcaccaagatgcacttg	23	13062	13084	-1	91.304347826087
+scf0513002	ttctacgcattaagatgcacttg	ttctacgcaccaagatgcacttg	23	82749	82771	1	91.304347826087
+scf0512987	ttctacgcattaagatgca	ttctacccattaagatgca	19	135043	135061	1	94.7368421052632
+scf0513196	attaagatgcactt	attaagatgcactt	14	341444	341457	-1	100
+scf0513168	attaagatgcactt	attaagatgcactt	14	1417371	1417384	-1	100
+scf0513157	attaagatgcactt	attaagatgcactt	14	47722	47735	-1	100
+scf0513149	ttctacgcattaag	ttctacgcattaag	14	173491	173504	1	100
+scf0513134	acgcattaagatgcactt	acgcattaagatgtactt	18	1355538	1355555	-1	94.4444444444444
+scf0512963	attaagatgcactt	attaagatgcactt	14	28162	28175	-1	100
+HITS 28 
+scf0513177	cggttccccaaaaga-tagtagtta	cggttccccaaaagattagtagtta	24	2772410	2772434	-1	96
+scf0513160	ttccccaaaagatagt	ttccccaaaagatagt	16	785463	785478	-1	100
+ttccccaaaagatagt	ttccccaaaagatagt	16	4371081	4371096	-1	100
+scf0513146	ccaaaagatagtagtt	ccaaaagatagtagtt	16	2016989	2017004	1	100
+cccaaaagatagtag	cccaaaagatagtag	15	764146	764160	-1	100
+scf0513194	caaaagatagtagtt	caaaagatagtagtt	15	193855	193869	-1	100
+scf0513170	ccaaaagatagtagt	ccaaaagatagtagt	15	1369056	1369070	-1	100
+ttccccaaaagata	ttccccaaaagata	14	1802353	1802366	-1	100
+ggttccccaaaaga	ggttccccaaaaga	14	3171153	3171166	-1	100
+scf0513103	ccaaaagatagtagt	ccaaaagatagtagt	15	763172	763186	1	100
+scf0513061	ggttccccaaaagat	ggttccccaaaagat	15	1230730	1230744	-1	100
+scf0513171	cccaaaagatagta	cccaaaagatagta	14	748292	748305	1	100
+scf0513164	ggttccccaaaaga	ggttccccaaaaga	14	744535	744548	-1	100
+scf0513163	tccccaaaagatag	tccccaaaagatag	14	254658	254671	-1	100
+scf0513161	caaaagatagtagt	caaaagatagtagt	14	49576	49589	-1	100
+aaaagatagtagtt	aaaagatagtagtt	14	912241	912254	1	100
+scf0513158	ccaaaagatagtag	ccaaaagatagtag	14	5160632	5160645	-1	100
+scf0513157	aaaagatagtagtt	aaaagatagtagtt	14	1061409	1061422	1	100
+scf0513155	tccccaaaagatag	tccccaaaagatag	14	4226	4239	1	100
+tccccaaaagatag	tccccaaaagatag	14	317614	317627	1	100
+tccccaaaagatag	tccccaaaagatag	14	1127389	1127402	1	100
+scf0513151	tccccaaaagatag	tccccaaaagatag	14	1339580	1339593	-1	100
+scf0513144	cccaaaagatagta	cccaaaagatagta	14	1143963	1143976	-1	100
+scf0513132	ccaaaagatagtag	ccaaaagatagtag	14	889707	889720	-1	100
+scf0513128	ccaaaagatagtag	ccaaaagatagtag	14	38682	38695	-1	100
+scf0513125	aaagatagtagtta	aaagatagtagtta	14	1399958	1399971	-1	100
+scf0513119	caaaagatagtagt	caaaagatagtagt	14	374033	374046	-1	100
+scf0513110	ccaaaagatagtag	ccaaaagatagtag	14	728859	728872	-1	100
+scf0513097	tccccaaaagatag	tccccaaaagatag	14	144985	144998	-1	100
+scf0513091	tccccaaaagatag	tccccaaaagatag	14	435367	435380	-1	100
+scf0513083	tccccaaaagatag	tccccaaaagatag	14	469445	469458	1	100
+scf0513045	tccccaaaagatag	tccccaaaagatag	14	30104	30117	1	100
+scf0513004	ttccccaaaagata	ttccccaaaagata	14	864934	864947	1	100
+scf0512996	tccccaaaagatag	tccccaaaagatag	14	379549	379562	1	100
+scf0511387	tccccaaaagatag	tccccaaaagatag	14	1530	1543	-1	100
+HITS 0 

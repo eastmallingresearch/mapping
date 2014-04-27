@@ -1,0 +1,19 @@
+LOCUS       mrna02732.1              741 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      complement(1..741)
+ORIGIN      
+        1 atgttcaagc aaacattttc atctcttttc cttgtgatgc tacttgcgaa tatgcacaca
+       61 gcattttcag ttgatcctgc agcagaaccc gtacttgaat tatatatgca cgacattctt
+      121 ggtggcagta gccctacagc taggccaatc actggcttgc taggtaacat ctacagcagt
+      181 caagtcccct tcgccaagcc gataggattc actgttccaa gtaatggggt ggctgtccct
+      241 aatgccaatg gtgccattcc aactgtaaat ggcgccaccg gactcccact aggaaccggc
+      301 ctatctggaa cagcttttgc aggaaataca aacgaccaga accagaatgg caatatcgca
+      361 acgcagctag cagcagatgg attggggctg ggattcggga caatcactgt catcgatgac
+      421 atactgactt ctagccctga tttgggttca caaacccttg gaaaagctca aggtatttat
+      481 atggcaagct ctgcagatgg atcaagacag ctgatggcat ttacagctat gatggaagga
+      541 ggggagtata acgataacct caacttcttt ggagtgtaca agattggaag taccatgtca
+      601 cagttgtcag tgactggtgg cacaggtaag tttaagaatg ccaatggaat cgcagagctg
+      661 cgaccactga ttcctccagg ccaacatgca actgatggtg cagaaacatt actgagggtt
+      721 actgtgcact tgaactattg a
+//

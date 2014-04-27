@@ -1,0 +1,20 @@
+LOCUS       mrna14912.1              387 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     66..87
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="57.1542983990318"
+     right_primer    complement(250..271)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.4152312535254"
+ORIGIN      
+        1 agccagatcc agccgctgtg gtggagctcg acagcagcga cgacgagaac ccagctgcga
+       61 cgccgaacac tactcagaaa gtcccgccgc aacactcgcc ggccgtcggg cagcaaaccc
+      121 tagcctgccg gagcttctgg aaagccggcg actatgttgt gcccaagcag cagtttctgg
+      181 cccaagacca attggagcac gcgcgcgtgc atcccaagtt tcttcattcc aatgccacct
+      241 cgcataagtg ggcttttgga ggtttaaagc tctttgcttt attaaggttc ttaatttcga
+      301 atttcaactc atttttagtt taatttgttt gcttatgagc tttaatttgc agccattgct
+      361 gagctgttgg acaatggtgt tgatgag
+//

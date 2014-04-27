@@ -1,0 +1,19 @@
+LOCUS       mrna13771.1              316 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     1..22
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.1651607357057"
+     right_primer    complement(252..273)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.5812910992939"
+ORIGIN      
+        1 catggaacaa atgaatgtct gctcaacaca attgaggcct gcaccatcac catctatcct
+       61 aatgtggtaa agtttgtcaa tgcctctagg aaaagtacag actttatccc aaacatgtgc
+      121 agatgacgct taaaactttg gtttggttac tgactacgat ggattaatta tgatgcagaa
+      181 tcggcatttt agattcatcc actgcgttca gcggctcaca ttgcagaaca agcacggaaa
+      241 atgggccgat tgctttgaaa tgttgaagtt ggggactgtt cctatcaatt gctataacag
+      301 tggatatggc aatcag
+//

@@ -1,0 +1,20 @@
+LOCUS       mrna05804.1              398 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     98..119
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="51.2456639029358"
+     right_primer    complement(277..298)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.5504936062525"
+ORIGIN      
+        1 gatatataat aaacaacaat ttaatgatga atttacttct tacatctcgt ttcatataga
+       61 ttgaaatggt ttttagtttt taagcacatt aatcattgaa tttggtcatt tatttgggct
+      121 aattatggtt tgtgaatatt ttcagagcgc atgctgatga caggatcttc ttgatggtct
+      181 agtcttcact gttaagtttt tttttttttt ttttttttca ataattgata tttgtctttg
+      241 caatacatta tgctttaata attcaaaaac taactgcgga aacgaatatt gctaggttgc
+      301 aggttgctag cttcagtctc agcccagagg gcacgtacac ctatttagct gagcctttgt
+      361 ctgcctgctt agatagagat gttcaagatt atgcatga
+//

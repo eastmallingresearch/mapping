@@ -1,0 +1,13 @@
+LOCUS       mrna26148.1              345 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      1..345
+     ssr             287..295
+ORIGIN      
+        1 atgtctcatt tcaatgacat atcaccatac acctacactg ttagcactaa cactgttttt
+       61 gatgaaactg ctgcagcgga acaaagcctt aaccatgaga gaaggctgaa gagactgatt
+      121 tccaacaggg aatctgcacg aaggtcgcga atgcgtaaga agaagcagat tcaagagctc
+      181 aagcatgaag tggaccagct ctacgttgca aataaccagc tatatgagaa gctgatccga
+      241 ctattagagg ttaaccagcg gattcttcag gaaaatgctg agctaaaaga gagagtttct
+      301 tcccttcaag tcacctttac tgatctgata gatgtaaccc tttaa
+//

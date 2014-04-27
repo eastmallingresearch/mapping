@@ -1,0 +1,18 @@
+gene01553	36	36	,	129	36	,
+gene01541	3	3	,	0	3	
+gene01540	5	5	,	10	5	,
+gene01550	26	26	,	53	26	,defense,
+gene01549	61	61	,	841	61	stress,,oomycetes,kinase,defense,salicylic,bacterium,
+gene01546	6	6	,	7	6	,
+gene01543	3	3	,	5	3	,
+gene01535	1	1	,	5	1	,
+gene01552	1	1	,	0	1	
+gene01539	79	79	,	460	79	stress,,defense,cell wall,
+gene01534	13	13	,	87	13	,
+gene01555	1	1	,	2	1	,
+gene01547	13	13	,	56	13	,cell wall,transcription,
+gene01542	9	9	,	23	9	,
+gene01545	4	4	,	18	4	,
+gene01554	41	41	,	143	41	,
+gene01548	0	0		0	0	
+gene01544	0	0		0	0	

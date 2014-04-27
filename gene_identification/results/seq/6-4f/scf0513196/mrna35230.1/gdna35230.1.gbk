@@ -1,0 +1,20 @@
+LOCUS       mrna35230.1              759 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      complement(1..759)
+     ssr             338..346
+ORIGIN      
+        1 atgttgccct ccgactactt agagaactgg aatgctatga aatttgttga tgcaaacgag
+       61 ctgatatacg tccaatcttt cctcttcttc ccgatgtacg aaaaatggtt ctactatgat
+      121 tacctgatta cagttttcag taaaggtgtg gaattgaact atttcaagac cccttctcct
+      181 ctgttattca tagacctctc aagtaacagc tttgaaggag agattccagg tatcattggg
+      241 aatctaagag ggctttattt gctcaatctt tccaacaaca ctctcactgg tctcatcccc
+      301 tcgtctttgg ggaacttgac tgctcttgaa tcgttggatc tctctcaaaa tcagctctca
+      361 ggaaacatcc ccagagtcct ggcgcaactg acattccttt catactttaa tgtgtctcat
+      421 aatcgtcttt tgggatccat tccacaaggt cgacaatttg atacattccg agaggatatg
+      481 taccagggaa actcaggttt gtgtggaaaa cctttgtcaa agaaatgtca agattctgag
+      541 atcacaactc ctcaaacaac ctttgaacaa gacgaagact cggggtttcg aattgagcta
+      601 gattggtttg tggttctgcc aggagttgtt actggcctaa tagttggagt aattgtggaa
+      661 aacttttgga cagccaagaa gcatgaccgg tttgtagata cattcaacag gaggaggcag
+      721 ctgagaagca caaagcggcg gagggaattc agaacttag
+//

@@ -1,0 +1,20 @@
+LOCUS       mrna34870.1              405 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     148..169
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.5872199721268"
+     right_primer    complement(343..368)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.4834792788526"
+ORIGIN      
+        1 aatctttgtc caggtatgct atgctgtgtg gtcactgatc agattttctt ttcttatttc
+       61 ttttcattga atggtagatt tcttgcaatg ccataaaaaa agttattttt cctaacatat
+      121 atggatatgg agttctcata attcatttgc tttcccaatc tactatccgt gcaacaagca
+      181 aattttagcc acaattttct tttttttctc ttatattctt tgtttttatt tattattatt
+      241 atttttttat catttgtcat tatcaatcaa ttctttttta attttgataa ttaatttgtg
+      301 aaacaaaaac agtatcacac atgatgttat tactgattta ctggtatatg aaaacgtcta
+      361 gtttgaaaca aatataaatc tagaagattg catacatgat gtttt
+//

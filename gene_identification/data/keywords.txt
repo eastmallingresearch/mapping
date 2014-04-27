@@ -1,0 +1,23 @@
+glycosyl
+hydrolyase
+defense
+phenylpropanoid
+glucanase
+antifungal
+innate immunity
+arabinogalactan
+transmembrane
+cell_wall
+glutaredoxin
+extracellular
+cellulose
+methylesterase
+sulfurtransferase
+pathogenesis
+disease
+flavanoid
+flavanone
+resistance
+TIR-NBS-LRR
+CC-NBS-LRR
+

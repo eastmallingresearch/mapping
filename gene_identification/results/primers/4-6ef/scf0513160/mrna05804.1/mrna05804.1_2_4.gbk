@@ -1,0 +1,23 @@
+LOCUS       mrna05804.1              552 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     57..77
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.4137255737768"
+     right_primer    complement(522..544)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.6541651987856"
+ORIGIN      
+        1 cttgagaggg ggagataatt atgttaatga aattgcctat caattatcag aaggagaagc
+       61 ttttcggaaa gtgaagcatc tttatctaat ccgactagat tctacatgca tcattgattg
+      121 gaaggtaagt tacttttgtt ttagtttggc agttgatgag ttccaaatgt ttaagcaaat
+      181 taaatttttg ctccatatca aattgttgtc aatatctgtg ttatgaaggc tttgaaattg
+      241 aaaatacgga cctaatttat tgcttggtca ttccaaaagc attgttgaaa agagaacaaa
+      301 attattttcg gctcaccact aagttgaaaa ctgaaaacag tttgcatttg tctttcctac
+      361 aataaatttg agaattgatc cactgatata tgcccccaat aacttgtgca acaggttgtg
+      421 ttttccagat taacaacctt gaaagtggtt gcctgtcatg gaataacgtt cttgttatcg
+      481 tcttcagtgg ccagaagttt agattgaagt ctcagtactc tcgagatagg atattgtgga
+      541 agcatggagg ag
+//

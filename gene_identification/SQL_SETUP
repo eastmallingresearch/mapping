@@ -1,0 +1,16 @@
+#RESET ROOT PASSWORD IF UNKNOWN
+/etc/init.d/mysql stop
+/usr/bin/mysqld_safe --skip-grant-tables &
+mysql mysql
+update user set Password=PASSWORD('richiha.132') WHERE User='root';
+
+
+CREATING AN SQL DATABASE
+
+mysql> grant all privileges on vescagff.* to harrir@localhost
+mysql> grant select on vescagff.* to nobody@localhost
+mysql> exit
+
+# ADD DATA TO DATABASE
+bp_seqfeature_load.pl -d vescagff -c -f genemark_predictions_161109.gff3 fvesca.090806.scf.fna
+

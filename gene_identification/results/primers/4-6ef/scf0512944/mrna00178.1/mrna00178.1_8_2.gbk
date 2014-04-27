@@ -1,0 +1,20 @@
+LOCUS       mrna00178.1              407 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     157..179
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.936003588248"
+     right_primer    complement(346..369)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.8446599326389"
+ORIGIN      
+        1 attgttatgc tttcactact tactgatata aattactgat ttactggtat atgaaaatgt
+       61 ctagtttgaa actaatttca atcaggatga ttgcatacat catgtatgta gtcaattcat
+      121 tcagtcttga tttatttaag aaattatgaa ttttttggcg tgaagcagat attttaacct
+      181 atgaatcggt actattaatc acacacacaa tgttatcatg tacatataaa atatatcatg
+      241 cctttagaaa ttagtctctg tgggaagtgt tagtcatcaa tgttattgca gctagccatg
+      301 agaacgagga gaaattgtgt tagcattttg aaattagttc ttctagctag tgatgattct
+      361 gtggtcatca atatatatgt gtttacaact agcatgagat gaatgaa
+//

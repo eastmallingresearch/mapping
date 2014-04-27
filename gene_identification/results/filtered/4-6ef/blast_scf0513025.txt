@@ -1,0 +1,23 @@
+gene34075	45	45	,	5	45	,
+gene24369	1	1	,	0	1	
+gene24386	7	7	,	92	7	stress,,
+gene24374	1	1	,	2	1	,
+gene24364	0	0		0	0	
+gene24384	20	20	,	81	20	,
+gene24381	3	3	,	32	3	,defense,bacterium,
+gene24363	4	4	,	4	4	,
+gene24373	32	32	,	0	32	
+gene24383	34	34	,	26	34	,
+gene34074	11	8	,transmembrane,	24	8	stress,,
+gene24379	1	1	,	1	1	,
+gene24370	32	32	,	78	32	,cell wall,defense,
+gene34077	0	0		0	0	
+gene24382	5	5	,	6	5	,
+gene24368	51	51	,	164	51	,cell wall,
+gene24365	281	249	,transmembrane,resistance,disease,	2714	249	stress,,oomycetes,kinase,cell wall,defense,plant-type hypersensitive,salicylic,bacterium,
+gene24378	2	2	,	2	2	,
+gene24367	2	2	,	34	2	,kinase,defense,
+gene24375	3	3	,	6	3	,
+gene24385	58	57	,transmembrane,	579	57	stress,,kinase,transcription,bacterium,
+gene24366	14	14	,	15	14	,kinase,
+gene24377	2	2	,	1	2	,

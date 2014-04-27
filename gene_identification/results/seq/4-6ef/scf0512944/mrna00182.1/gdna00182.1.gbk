@@ -1,0 +1,16 @@
+LOCUS       mrna00182.1              522 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      complement(1..522)
+     ssr             35..53
+ORIGIN      
+        1 atggcctcct ctgcatctct tccttcgtcc gctgaatcat catcatcatc atcaacagct
+       61 cgtccgtgca aatatgatgt gtttttgagt ttcaggggtc ctgacactcg gaggggaatt
+      121 acttctcaat tatatgatca gctgcataac aagagaagaa ttgcaacatt cttggatgat
+      181 cgagatcttg aagtagggga tgctatatct cccactctac taaaagcaat tgaagaatca
+      241 tggtttgcaa ttgttgtcct ttctccaaac tatgcctctt ctacttggtg tttggaggaa
+      301 cttgcaaaga tctgtgagtg gatggaagga aacaacagaa ttcttccact tttttataat
+      361 gtcgagctta ctgatgtaag acatcaaaag ggatgttttg aagaagcttt caacaagcat
+      421 gaaagctctg ggcgacacac atcagagaag gtgcagcggt ggaaggatgc tttgagcaaa
+      481 gtggccagtt tctctgggtg ggattcaaac aattacaagt aa
+//

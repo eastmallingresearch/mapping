@@ -1,0 +1,19 @@
+LOCUS       mrna12641.1              343 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     18..39
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="56.1818360003993"
+     right_primer    complement(251..272)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.1022119415959"
+ORIGIN      
+        1 ctccatctgt caacaaacct gtggtatcat ctcctacccc gagctccagt gggaaaaggg
+       61 ataaaacacc agttgttgca cccccagttg aagctcccaa gccaccactc cccacaagtc
+      121 attccccagc tgaaggtata gaaacctaag cattttagtg gttgccactt gaaagtttgt
+      181 gttggcaagt ttatgatttt agtttctgta gctccatctg tccccaaacc agtggcatca
+      241 tcacctaccc ccagcattaa caggaaaaga ggtcaaatac cagttgttgc accaccatat
+      301 gaagctccca ggcaatcacc catggggcat accccagcta aag
+//

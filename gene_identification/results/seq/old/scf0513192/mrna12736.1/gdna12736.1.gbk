@@ -1,0 +1,26 @@
+LOCUS       mrna12736.1             1078 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     transcript      1..1078
+     ssr             244..252
+     ssr             406..414
+ORIGIN      
+        1 atggggagaa agccatgctc taacgaaaac agtgtaaaca ggggagtctg gtctgctgag
+       61 gaagatgaag cccttaaacg atacataaga actcatggac catgtaaatg gaaagaagtt
+      121 tctcgtcgag ctggtgcgta atacatttgg tatatgtata ctaattaaaa tcctttcatt
+      181 tagtagtact acacatatat caaacataaa atcctttcat ttttctttat ttacctgctt
+      241 agaatgtgtg tgtagaatta aaccgttgcc cgaagagttg cagactgcga tggcggaatt
+      301 atctgaggcc tggtattaag agaggaaaca tttctgagga tgaagaagac ctcattctca
+      361 gaatgcacaa gcttctcgga aataggtacc ggtatataat agtttgtata tatagtaaac
+      421 tactcttact ctcaagatct gaaacctaac aatgagcagg tgtgtactaa tatgatatgt
+      481 tagcaaatga aatagaatga agtttatgtc gatgttttga atcaataggt ggtctctcat
+      541 agccggaaga ttaccaggac gaacagacaa tgaaataaag aaccactgga tttgtaattt
+      601 gagtaagaga ttcttggaga aagctccgcc agacaaccaa attatcaagg ctcatgacaa
+      661 ttttcatcgt cctcgcggtg aatccagtaa ctgtaatttc aaagaagttg aggatgtttc
+      721 tggcactgaa gatcaagaga aagcagtccc atctaaaagt actacaataa ctgaaaattt
+      781 accaccatct tcttctttag tagtttctga tcagcttcca gaaccaaagg attcttctgc
+      841 tacttttcta gtggatcttg aaatgtacct gaatgatcat gacctccaaa atagtacaga
+      901 tatcgaccat gatttgcacc tagcagaatg gatcaatcta ttaagtggag atgacggtga
+      961 tttgcaccaa gaagaattgg gtacagaatt catcagtttt ctggcagatg gaactcagga
+     1021 gcttcaagca gattgggatc aattcatgga agaagctttg ttatcatcac catcatga
+//

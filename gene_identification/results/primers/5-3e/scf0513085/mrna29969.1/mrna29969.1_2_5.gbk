@@ -1,0 +1,21 @@
+LOCUS       mrna29969.1              459 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     119..140
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.9414336374983"
+     right_primer    complement(320..341)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.0285587778367"
+ORIGIN      
+        1 tgtatatgat tgtgtttctg gagatattga ttatctatcc aaccagttga ggtggcttga
+       61 ttggcctgaa tgtccgttgc aatcttttcc atccaacttt catgcaaaca aacttgtaga
+      121 gctcaatatt catgacagcc gtcgaatcac aagactatgg gagggacgga aggtatttaa
+      181 tacatctcaa acttgtatct tttaattgaa aataaataat aaatagctgt gttgtaaaat
+      241 ttcctccctc cattggttga tcttttcctt tttcttttgc catacagaat ttctcaagcc
+      301 taacacgtat ggatttaagg ggttgtgaat ccctaacaga actcccagac ttcggtggaa
+      361 tcccaaactt gaaagagttg gatctatctg actgtaagaa tttagttgag gttcctgatt
+      421 ccgttggatt cctccgtaac cttgttactt tgaatgttg
+//

@@ -1,0 +1,22 @@
+LOCUS       mrna29969.1              512 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     98..119
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.7157851049325"
+     right_primer    complement(374..396)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.9536284872464"
+ORIGIN      
+        1 attgacatag ataagatttg gatgcatgac ttgatagaag aaatgggtag aaacgtagtg
+       61 tatcaagagt caccttatga gcccggggaa cgcagcagag tgtggagtga agaagatgct
+      121 aatgatgttc taacaaataa tacagtaaga atattaatga tgttttgtgt tcttcatttc
+      181 aaagagcatt ttatatattg atttacaatt tcttatggcc gaagacctta aagaaaactg
+      241 tattgaaaca gtgtacttgt acttatgtgg tttgaataga aattgcaaca agaaatgttt
+      301 ctgggttaat aagcttgctt tcttttgatg caggaaacaa ataaagttat gggcaattgg
+      361 gcattcaggt tccgcggcta tcatctacga tacatttgaa tgctaaaagc ttctcaagta
+      421 tgaagattct cagatatatt tctatgagcg agtataatgt atatgattgt gtttctggag
+      481 atattgatta tctatccaac cagttgaggt gg
+//

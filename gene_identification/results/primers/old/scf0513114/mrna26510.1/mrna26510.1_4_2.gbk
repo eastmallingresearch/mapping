@@ -1,0 +1,18 @@
+LOCUS       mrna26510.1              275 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     34..55
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.6824044784341"
+     right_primer    complement(245..266)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="52.7696016751115"
+ORIGIN      
+        1 gaagagttat ttatgcagat aaagaacccg acggtttacc ggacgagtta aaggggttat
+       61 ctatgtattt ctctctcttc ccatcagatt atgagtttag aagagatgag ttggttcaaa
+      121 tgtggatggc tgaaggcttt attgacgaga gccaaagaaa gacaacggag gacattggtt
+      181 gtgcttattt caattcctta gaaaagatag gctttcttgt gccctctaga tgtgatttca
+      241 gtgtggattt tgattcagtg tgttcggtac cctcg
+//

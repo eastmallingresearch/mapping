@@ -1,0 +1,20 @@
+LOCUS       mrna24365.1              405 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     82..103
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.4226840281742"
+     right_primer    complement(381..402)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="53.9795025831352"
+ORIGIN      
+        1 cctacttgca ccatgattgt gttcctccaa ttgttcacag agatatcaaa gccaataaca
+       61 tcctcattgg ccttgagttt gaggcttaca ttgctgattt tggtcttgca aaacttgttg
+      121 atgagggaaa ttttgctcga tcatctaata caattgctgg ttcgtatggc tacattgctc
+      181 ctggtaagta gtactctata cacacacagt tgattttcac atttctttta atttgcatta
+      241 cttcatttca atgtcatttc atgattcaaa attatatgct tgagcttaac tttagtgctt
+      301 tttttctctt cttcagaata tggatatatg atgaagatta cagagaagag tgatgtttat
+      361 agctatggtg tagttgtatt ggaagtttta acagggaagc aacca
+//

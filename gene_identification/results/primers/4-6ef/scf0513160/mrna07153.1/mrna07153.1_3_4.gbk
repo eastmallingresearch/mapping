@@ -1,0 +1,23 @@
+LOCUS       mrna07153.1              562 bp    dna     linear   UNK 
+ACCESSION   unknown
+FEATURES             Location/Qualifiers
+     left_primer     59..80
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="54.3866562681551"
+     right_primer    complement(501..522)
+                     /new="1"
+                     /author="Bio::Seq::PrimedSeq"
+                     /Tm="55.431858019656"
+ORIGIN      
+        1 ctccacgaat gtagtcctcg gaaatttgtc catggggaca tcaagccctc caacattctc
+       61 ctagacaacg aatctcaacc ctacatttcg gatttcggac tcaacagact gatcaccatc
+      121 actggcaaca acccttcctc gggtggctta atgggtagtg ctctccctta catgaaggct
+      181 gtccaaacag agcgagccaa caactacaga gcccctgagg ctagagtgtc gggtagtaga
+      241 ccaactcaaa aatgggatgt ttactcattc ggagttgtct tgctggagtt gctcaccgga
+      301 aagtctccgg agatgtctcc aactagtacc tcaacttcca tggagatacc ggacttagtg
+      361 aggtgggtga ggaaaggatt tgaggatgaa aaccctcttt cggatatggt agaccctatt
+      421 ttgcttcaag aagtccatgc caaaaaggaa gtgctagcag cttttcatgt agcacttgct
+      481 tgcactgagc ctgatcctga ggttaggcct aggatgaaaa ccgtctccga gaatcttgaa
+      541 agggttggat catgattcat ga
+//
