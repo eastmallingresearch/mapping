@@ -15,7 +15,7 @@ my $end=shift;
 my @total_loc=();
 my $count=0;
 
-for (my $i=1;$i<=$end;$i++){
+for (my $i=$start;$i<=$end;$i++){
 	
 	my $d_file=$pathtosingle.$name.$i."/";
 	#print $d_file."\n";
@@ -34,7 +34,7 @@ for (my $i=1;$i<=$end;$i++){
     }
 
 
-for (my $i=1;$i<=$end;$i++){
+for (my $i=$start;$i<=$end;$i++){
 	
 	my $d_file=$pathtorecode.$name.$i."/";
 	#print $d_file."\n";
